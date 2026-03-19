@@ -53,3 +53,12 @@ Then open your browser and go to **http://localhost:5173**
 ## Team
 
 MSIS 522 — Team 9 (4 members)
+
+Parul Sachdev
+
+Tanima Shrivastava
+
+Martin Guan
+
+James Kaminju
+
